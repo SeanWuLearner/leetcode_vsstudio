@@ -3,6 +3,7 @@
 #include <map>
 #include <unordered_map>
 #include <iostream>
+#include "DebugUtils.h"
 
 using namespace std;
 
@@ -29,14 +30,6 @@ public:
 	}
 };
 
-void print(const vector<int> v)
-{
-	for (auto i : v)
-	{
-		cout << i << ", ";
-	}
-	cout << endl;
-}
 
 void q0001_tester() 
 {
