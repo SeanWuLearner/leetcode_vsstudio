@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="DebugUtils.h" />
     <ClInclude Include="Q0001_TwoSum.h" />
+    <ClInclude Include="Q0005_longestPalindrome.h" />
     <ClInclude Include="Q0015_threeSum.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />

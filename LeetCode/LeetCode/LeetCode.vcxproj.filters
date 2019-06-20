@@ -30,6 +30,9 @@
     <ClInclude Include="DebugUtils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0005_longestPalindrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
