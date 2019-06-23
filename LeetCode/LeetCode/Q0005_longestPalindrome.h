@@ -3,7 +3,7 @@
 #include "DebugUtils.h"
 #include <string>
 
-#pragma region sean.wu 1st edition
+#pragma region sean.wu_1st_edition
 class Solution {
 private:
 	vector<vector<int>> len_table_;
@@ -59,7 +59,72 @@ public:
 };
 #pragma endregion
 
-#pragma region Genius version
+#pragma region sean.wu_1st_edition_recursive_to_iterative
+//TODO
+#pragma endregion
+
+
+#pragma region sean.wu_2nd_edition
+//class Solution {
+//public:
+//	string longestPalindrome(string s) 
+//	{
+//		pair<int, int> max_idx;
+//		int max = -1;
+//		int i, j, len;
+//
+//		if (s.length() <= 1)
+//			return s;
+//
+//		//loop for even palindrome
+//		for (size_t k = 0; k < s.length()-1; k++)
+//		{
+//			i = k; j = k + 1; len = 0;
+//			while (i >= 0 && j < s.length())
+//			{
+//				if (s[i] == s[j])
+//				{
+//					len += 2;
+//					if (len > max)
+//					{
+//						max = len;
+//						max_idx = { i, j };
+//					}
+//					i--;
+//					j++;
+//				}
+//				else
+//					break;
+//			}			
+//		}
+//
+//		//loop for odd palindrome		
+//		for (size_t k = 1; k < s.length() - 1; k++)
+//		{
+//			i = k-1; j = k + 1; len = 1;
+//			while (i >= 0 && j < s.length())
+//			{
+//				if (s[i] == s[j])
+//				{
+//					len += 2;
+//					if (len > max)
+//					{
+//						max = len;
+//						max_idx = { i, j };
+//					}
+//					i--;
+//					j++;
+//				}
+//				else
+//					break;
+//			}
+//		}
+//		return s.substr(max_idx.first, max_idx.second - max_idx.first + 1);
+//	}
+//};
+#pragma endregion
+
+#pragma region Genius_version
 //class Solution {
 //public:
 //	string longestPalindrome(string s) {
