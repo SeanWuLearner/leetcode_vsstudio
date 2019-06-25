@@ -36,6 +36,12 @@
     <ClInclude Include="Practice_Recursive2Iterative.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0007_ReverseInteger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0004_MedianOfTwoSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

@@ -131,7 +131,18 @@ static int comb_iter_stack(int n, int m)
 
 int comb_iter_dp(int n, int m)
 {
-	return 0;//TODO
+	if (n == 1 || m == 0 || n == m)
+		return 1;
+
+	vector<vector<int>> vals(n+1);
+	for(int i = 0; i < vals.size(); i++)
+		vals.at(i) = vector<int>(m+1, 1);
+		
+	for (int i = 2; i < vals.size(); i++)
+		for (int j = 1; j < vals.at(i).size() && j < i; j++)
+			vals.at(i).at(j) = vals.at(i - 1).at(j) + vals.at(i - 1).at(j - 1);
+
+	return vals.at(n).at(m);
 }
 
 #pragma endregion
@@ -151,6 +162,14 @@ void test_comb_pascal_triangle()
 	{
 		for (int j = 0; j <= i; j++)
 			cout << setw(4) << comb_iter_stack(i, j);
+		cout << endl;
+	}
+
+	cout << "Pascal's triangle by bottom-up DP:" << endl;
+	for (int i = 1; i <= 10; i++)
+	{
+		for (int j = 0; j <= i; j++)
+			cout << setw(4) << comb_iter_dp(i, j);
 		cout << endl;
 	}
 }

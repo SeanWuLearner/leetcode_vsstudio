@@ -149,7 +149,9 @@
   <ItemGroup>
     <ClInclude Include="DebugUtils.h" />
     <ClInclude Include="Q0001_TwoSum.h" />
+    <ClInclude Include="Q0004_MedianOfTwoSortedArray.h" />
     <ClInclude Include="Q0005_longestPalindrome.h" />
+    <ClInclude Include="Q0007_ReverseInteger.h" />
     <ClInclude Include="Q0015_threeSum.h" />
     <ClInclude Include="Practice_Recursive2Iterative.h" />
     <ClInclude Include="stdafx.h" />
