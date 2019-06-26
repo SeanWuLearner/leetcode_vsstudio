@@ -42,6 +42,15 @@
     <ClInclude Include="Q0004_MedianOfTwoSortedArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0011_ContainerWithMostwater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0014_LongestCommonPrefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0013_RomanToInteger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

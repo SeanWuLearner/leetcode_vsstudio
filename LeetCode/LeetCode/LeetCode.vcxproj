@@ -152,6 +152,9 @@
     <ClInclude Include="Q0004_MedianOfTwoSortedArray.h" />
     <ClInclude Include="Q0005_longestPalindrome.h" />
     <ClInclude Include="Q0007_ReverseInteger.h" />
+    <ClInclude Include="Q0011_ContainerWithMostwater.h" />
+    <ClInclude Include="Q0013_RomanToInteger.h" />
+    <ClInclude Include="Q0014_LongestCommonPrefix.h" />
     <ClInclude Include="Q0015_threeSum.h" />
     <ClInclude Include="Practice_Recursive2Iterative.h" />
     <ClInclude Include="stdafx.h" />
