@@ -51,6 +51,15 @@
     <ClInclude Include="Q0013_RomanToInteger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0207_CourseSchedule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0141_LinkedListCycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0046_Permutations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
