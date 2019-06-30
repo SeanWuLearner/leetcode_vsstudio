@@ -60,6 +60,21 @@
     <ClInclude Include="Q0046_Permutations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0054_SpiralMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0127_WordLadder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0020_ValidParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0084_LargestRectangleInHistogram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0118_PascalTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
