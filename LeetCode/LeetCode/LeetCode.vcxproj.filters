@@ -75,6 +75,15 @@
     <ClInclude Include="Q0118_PascalTriangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0138_CopyListWithRandomPointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0279_PerfectSquares.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

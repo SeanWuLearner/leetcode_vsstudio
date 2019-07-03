@@ -158,13 +158,16 @@
     <ClInclude Include="Q0015_threeSum.h" />
     <ClInclude Include="Practice_Recursive2Iterative.h" />
     <ClInclude Include="Q0020_ValidParentheses.h" />
+    <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
     <ClInclude Include="Q0084_LargestRectangleInHistogram.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
+    <ClInclude Include="Q0138_CopyListWithRandomPointer.h" />
     <ClInclude Include="Q0141_LinkedListCycle.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
+    <ClInclude Include="Q0279_PerfectSquares.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
