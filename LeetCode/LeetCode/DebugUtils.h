@@ -5,5 +5,22 @@
 
 using namespace std;
 
-void print(const vector<int> &v);
-void print(const vector<vector<int>> &v);
+
+template<typename T>
+void print(const vector<T> &v)
+{
+	for (const auto &i : v)
+	{
+		cout << i << ", ";
+	}
+	cout << endl;
+}
+
+template<typename T>
+void print(const vector<vector<T>> &v)
+{
+	for (const auto &i : v)
+	{
+		print(i);
+	}
+}

@@ -160,24 +160,33 @@
     <ClInclude Include="Q0019_RmNthNodeFromEndOfList.h" />
     <ClInclude Include="Q0020_ValidParentheses.h" />
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
+    <ClInclude Include="Q0036_ValidSudoku.h" />
     <ClInclude Include="Q0041_FirstMissingPositive.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
     <ClInclude Include="Q0084_LargestRectangleInHistogram.h" />
+    <ClInclude Include="Q0102_BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
+    <ClInclude Include="Q0130_SurroundedRegions.h" />
     <ClInclude Include="Q0138_CopyListWithRandomPointer.h" />
     <ClInclude Include="Q0141_LinkedListCycle.h" />
     <ClInclude Include="Q0148_SortList.h" />
+    <ClInclude Include="Q0155_MinStack.h" />
     <ClInclude Include="Q0162_FindPeakElement.h" />
     <ClInclude Include="Q0179_LargestNumber.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
+    <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
+    <ClInclude Include="Q0240_Search2DMatrixII.h" />
     <ClInclude Include="Q0279_PerfectSquares.h" />
     <ClInclude Include="Q0322_CoinChange.h" />
+    <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
+    <ClInclude Include="Q0454_4Sum_II.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DebugUtils.cpp" />
