@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="DebugUtils.h" />
+    <ClInclude Include="ListNode.h" />
     <ClInclude Include="Q0001_TwoSum.h" />
     <ClInclude Include="Q0004_MedianOfTwoSortedArray.h" />
     <ClInclude Include="Q0005_longestPalindrome.h" />
@@ -159,14 +160,18 @@
     <ClInclude Include="Practice_Recursive2Iterative.h" />
     <ClInclude Include="Q0019_RmNthNodeFromEndOfList.h" />
     <ClInclude Include="Q0020_ValidParentheses.h" />
+    <ClInclude Include="Q0023_MergeKSortedArray.h" />
+    <ClInclude Include="Q0029_DivideTwoIntegers.h" />
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0036_ValidSudoku.h" />
     <ClInclude Include="Q0041_FirstMissingPositive.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
+    <ClInclude Include="Q0062_UniquePaths.h" />
     <ClInclude Include="Q0084_LargestRectangleInHistogram.h" />
     <ClInclude Include="Q0102_BinaryTreeLevelOrderTraversal.h" />
+    <ClInclude Include="Q0103_BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
@@ -183,6 +188,7 @@
     <ClInclude Include="Q0279_PerfectSquares.h" />
     <ClInclude Include="Q0322_CoinChange.h" />
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
+    <ClInclude Include="Q0395_LongestSubstrAtLeastKRepeatChar.h" />
     <ClInclude Include="Q0454_4Sum_II.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
