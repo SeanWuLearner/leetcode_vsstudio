@@ -186,6 +186,18 @@
     <ClInclude Include="Q0150_EvalReversePolishNotation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0300_LongestIncreasingSubsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0121_BestTimeToBuySellStock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0022_GenerateParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0326_PowerOfThree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

@@ -160,6 +160,7 @@
     <ClInclude Include="Practice_Recursive2Iterative.h" />
     <ClInclude Include="Q0019_RmNthNodeFromEndOfList.h" />
     <ClInclude Include="Q0020_ValidParentheses.h" />
+    <ClInclude Include="Q0022_GenerateParentheses.h" />
     <ClInclude Include="Q0023_MergeKSortedArray.h" />
     <ClInclude Include="Q0029_DivideTwoIntegers.h" />
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
@@ -175,6 +176,7 @@
     <ClInclude Include="Q0102_BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Q0103_BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
+    <ClInclude Include="Q0121_BestTimeToBuySellStock.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
     <ClInclude Include="Q0128_LongestConsecutiveSeq.h" />
@@ -196,7 +198,9 @@
     <ClInclude Include="Q0268_MissingNumber.h" />
     <ClInclude Include="Q0279_PerfectSquares.h" />
     <ClInclude Include="Q0295_FindMedianFromDataStream.h" />
+    <ClInclude Include="Q0300_LongestIncreasingSubsequence.h" />
     <ClInclude Include="Q0322_CoinChange.h" />
+    <ClInclude Include="Q0326_PowerOfThree.h" />
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
     <ClInclude Include="Q0384_ShuffleAnArray.h" />
     <ClInclude Include="Q0395_LongestSubstrAtLeastKRepeatChar.h" />
