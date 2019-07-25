@@ -166,6 +166,7 @@
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0036_ValidSudoku.h" />
     <ClInclude Include="Q0041_FirstMissingPositive.h" />
+    <ClInclude Include="Q0044_WildcardMatching.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
@@ -175,6 +176,8 @@
     <ClInclude Include="Q0087_ScrambleString.h" />
     <ClInclude Include="Q0102_BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Q0103_BinaryTreeZigzagLevelOrderTraversal.h" />
+    <ClInclude Include="Q0104_MaxDepthOfBinaryTree.h" />
+    <ClInclude Include="Q0105_ConstructBTreeFromPreInTrav.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0121_BestTimeToBuySellStock.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
@@ -189,10 +192,12 @@
     <ClInclude Include="Q0152_MaximumProductSubarray.h" />
     <ClInclude Include="Q0155_MinStack.h" />
     <ClInclude Include="Q0162_FindPeakElement.h" />
+    <ClInclude Include="Q0166_FractionToRecurringDecimal.h" />
     <ClInclude Include="Q0179_LargestNumber.h" />
     <ClInclude Include="Q0189_RotateArray.h" />
     <ClInclude Include="Q0190_ReverseBits.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
+    <ClInclude Include="Q0215_KthLargestElemInArray.h" />
     <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
     <ClInclude Include="Q0240_Search2DMatrixII.h" />
     <ClInclude Include="Q0268_MissingNumber.h" />
@@ -200,6 +205,7 @@
     <ClInclude Include="Q0295_FindMedianFromDataStream.h" />
     <ClInclude Include="Q0300_LongestIncreasingSubsequence.h" />
     <ClInclude Include="Q0322_CoinChange.h" />
+    <ClInclude Include="Q0324_WiggleSortII.h" />
     <ClInclude Include="Q0326_PowerOfThree.h" />
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
     <ClInclude Include="Q0384_ShuffleAnArray.h" />

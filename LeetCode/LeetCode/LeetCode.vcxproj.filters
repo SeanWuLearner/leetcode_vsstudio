@@ -198,6 +198,24 @@
     <ClInclude Include="Q0326_PowerOfThree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0324_WiggleSortII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0215_KthLargestElemInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0104_MaxDepthOfBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0044_WildcardMatching.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0166_FractionToRecurringDecimal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0105_ConstructBTreeFromPreInTrav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
