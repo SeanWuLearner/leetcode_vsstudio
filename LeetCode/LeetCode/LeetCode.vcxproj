@@ -170,6 +170,7 @@
     <ClInclude Include="Q0044_WildcardMatching.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
+    <ClInclude Include="Q0050_Pow.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
     <ClInclude Include="Q0062_UniquePaths.h" />
     <ClInclude Include="Q0069_SqrtX.h" />
@@ -181,6 +182,7 @@
     <ClInclude Include="Q0105_ConstructBTreeFromPreInTrav.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0121_BestTimeToBuySellStock.h" />
+    <ClInclude Include="Q0124_BinTreeMaxPathSum.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
     <ClInclude Include="Q0128_LongestConsecutiveSeq.h" />
@@ -194,6 +196,7 @@
     <ClInclude Include="Q0155_MinStack.h" />
     <ClInclude Include="Q0162_FindPeakElement.h" />
     <ClInclude Include="Q0166_FractionToRecurringDecimal.h" />
+    <ClInclude Include="Q0168_MajorityElement.h" />
     <ClInclude Include="Q0179_LargestNumber.h" />
     <ClInclude Include="Q0189_RotateArray.h" />
     <ClInclude Include="Q0190_ReverseBits.h" />

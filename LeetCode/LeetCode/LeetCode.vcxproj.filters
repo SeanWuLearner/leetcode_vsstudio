@@ -219,6 +219,15 @@
     <ClInclude Include="Q0028_ImplementStrStr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0168_MajorityElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0124_BinTreeMaxPathSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0050_Pow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
