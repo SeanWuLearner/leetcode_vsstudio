@@ -216,6 +216,9 @@
     <ClInclude Include="Q0105_ConstructBTreeFromPreInTrav.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0028_ImplementStrStr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

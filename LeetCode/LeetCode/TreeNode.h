@@ -9,6 +9,8 @@ struct TreeNode {
 	TreeNode *left;
 	TreeNode *right;
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+
+	//give v in level order traversal seq, where the INT_MIN element is equivalent to NULL.
 	TreeNode(const vector<int> &v)
 	{
 		if (v.size() == 0)
@@ -45,5 +47,10 @@ struct TreeNode {
 			idx++;
 			//cout << endl;
 		}
+	}
+
+	~TreeNode()
+	{
+		//cout << "end of Tree node" << endl;
 	}
 };

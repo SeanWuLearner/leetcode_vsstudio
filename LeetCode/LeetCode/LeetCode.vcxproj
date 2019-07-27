@@ -162,6 +162,7 @@
     <ClInclude Include="Q0020_ValidParentheses.h" />
     <ClInclude Include="Q0022_GenerateParentheses.h" />
     <ClInclude Include="Q0023_MergeKSortedArray.h" />
+    <ClInclude Include="Q0028_ImplementStrStr.h" />
     <ClInclude Include="Q0029_DivideTwoIntegers.h" />
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0036_ValidSudoku.h" />
