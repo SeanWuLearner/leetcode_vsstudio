@@ -228,6 +228,18 @@
     <ClInclude Include="Q0050_Pow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0289_GameOfLife.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0108_ConvertSortedArryToBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0078_Subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0227_BasicCalcII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

@@ -174,12 +174,14 @@
     <ClInclude Include="Q0054_SpiralMatrix.h" />
     <ClInclude Include="Q0062_UniquePaths.h" />
     <ClInclude Include="Q0069_SqrtX.h" />
+    <ClInclude Include="Q0078_Subsets.h" />
     <ClInclude Include="Q0084_LargestRectangleInHistogram.h" />
     <ClInclude Include="Q0087_ScrambleString.h" />
     <ClInclude Include="Q0102_BinaryTreeLevelOrderTraversal.h" />
     <ClInclude Include="Q0103_BinaryTreeZigzagLevelOrderTraversal.h" />
     <ClInclude Include="Q0104_MaxDepthOfBinaryTree.h" />
     <ClInclude Include="Q0105_ConstructBTreeFromPreInTrav.h" />
+    <ClInclude Include="Q0108_ConvertSortedArryToBST.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0121_BestTimeToBuySellStock.h" />
     <ClInclude Include="Q0124_BinTreeMaxPathSum.h" />
@@ -202,10 +204,12 @@
     <ClInclude Include="Q0190_ReverseBits.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
     <ClInclude Include="Q0215_KthLargestElemInArray.h" />
+    <ClInclude Include="Q0227_BasicCalcII.h" />
     <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
     <ClInclude Include="Q0240_Search2DMatrixII.h" />
     <ClInclude Include="Q0268_MissingNumber.h" />
     <ClInclude Include="Q0279_PerfectSquares.h" />
+    <ClInclude Include="Q0289_GameOfLife.h" />
     <ClInclude Include="Q0295_FindMedianFromDataStream.h" />
     <ClInclude Include="Q0300_LongestIncreasingSubsequence.h" />
     <ClInclude Include="Q0322_CoinChange.h" />

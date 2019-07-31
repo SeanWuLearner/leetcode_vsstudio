@@ -46,7 +46,7 @@ public:
 		if (n < 0)
 		{
 			x = 1 / x;
-			abs_n = -n;
+			abs_n = -abs_n;
 		}		
 
 		double ans = 1;
