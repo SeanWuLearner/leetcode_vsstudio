@@ -204,6 +204,7 @@
     <ClInclude Include="Q0190_ReverseBits.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
     <ClInclude Include="Q0215_KthLargestElemInArray.h" />
+    <ClInclude Include="Q0218_SkylineProblem.h" />
     <ClInclude Include="Q0227_BasicCalcII.h" />
     <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
     <ClInclude Include="Q0240_Search2DMatrixII.h" />
@@ -215,6 +216,7 @@
     <ClInclude Include="Q0322_CoinChange.h" />
     <ClInclude Include="Q0324_WiggleSortII.h" />
     <ClInclude Include="Q0326_PowerOfThree.h" />
+    <ClInclude Include="Q0347_TopKFrequentElem.h" />
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
     <ClInclude Include="Q0384_ShuffleAnArray.h" />
     <ClInclude Include="Q0395_LongestSubstrAtLeastKRepeatChar.h" />

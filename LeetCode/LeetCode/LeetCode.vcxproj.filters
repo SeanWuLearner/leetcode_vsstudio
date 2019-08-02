@@ -240,6 +240,12 @@
     <ClInclude Include="Q0227_BasicCalcII.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0347_TopKFrequentElem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0218_SkylineProblem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
