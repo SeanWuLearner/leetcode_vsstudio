@@ -246,6 +246,12 @@
     <ClInclude Include="Q0218_SkylineProblem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0206_ReverseLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0230_KthSmallestElemInBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

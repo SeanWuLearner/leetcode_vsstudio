@@ -15,7 +15,7 @@ typedef struct ListNode {
 	int val;
 	ListNode *next;
 	ListNode(int x, ListNode *next = NULL) : val(x), next(next) {}
-	static ListNode* genListHead(const vector<int> &list, int loop_pos)  //give loop_pos = -1 if no loop at all.
+	static ListNode* genListHead(const vector<int> &list, int loop_pos = -1)  //give loop_pos = -1 if no loop at all.
 	{
 		ListNode* head = nullptr;
 		ListNode* prev = nullptr, *cur;
