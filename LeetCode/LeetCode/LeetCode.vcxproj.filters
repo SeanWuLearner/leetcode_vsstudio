@@ -252,6 +252,12 @@
     <ClInclude Include="Q0230_KthSmallestElemInBST.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0076_MinWindowSubstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0334_IncreaseTripletSubsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
