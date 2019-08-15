@@ -200,6 +200,7 @@
     <ClInclude Include="Q0162_FindPeakElement.h" />
     <ClInclude Include="Q0166_FractionToRecurringDecimal.h" />
     <ClInclude Include="Q0168_MajorityElement.h" />
+    <ClInclude Include="Q0171_ExcelSheetColumnNum.h" />
     <ClInclude Include="Q0179_LargestNumber.h" />
     <ClInclude Include="Q0189_RotateArray.h" />
     <ClInclude Include="Q0190_ReverseBits.h" />
@@ -219,12 +220,14 @@
     <ClInclude Include="Q0322_CoinChange.h" />
     <ClInclude Include="Q0324_WiggleSortII.h" />
     <ClInclude Include="Q0326_PowerOfThree.h" />
+    <ClInclude Include="Q0329_LongestIncreasePathInMatrix.h" />
     <ClInclude Include="Q0334_IncreaseTripletSubsequence.h" />
     <ClInclude Include="Q0347_TopKFrequentElem.h" />
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
     <ClInclude Include="Q0384_ShuffleAnArray.h" />
     <ClInclude Include="Q0395_LongestSubstrAtLeastKRepeatChar.h" />
     <ClInclude Include="Q0454_4Sum_II.h" />
+    <ClInclude Include="Q0482_LicenseKeyFormatting.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TreeNode.h" />

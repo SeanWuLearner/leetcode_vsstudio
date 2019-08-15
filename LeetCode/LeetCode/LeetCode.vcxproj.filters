@@ -258,6 +258,15 @@
     <ClInclude Include="Q0334_IncreaseTripletSubsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0329_LongestIncreasePathInMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0482_LicenseKeyFormatting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0171_ExcelSheetColumnNum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
