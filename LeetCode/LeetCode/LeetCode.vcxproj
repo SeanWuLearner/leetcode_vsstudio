@@ -153,6 +153,7 @@
     <ClInclude Include="Q0004_MedianOfTwoSortedArray.h" />
     <ClInclude Include="Q0005_longestPalindrome.h" />
     <ClInclude Include="Q0007_ReverseInteger.h" />
+    <ClInclude Include="Q0008_StringToInteger.h" />
     <ClInclude Include="Q0011_ContainerWithMostwater.h" />
     <ClInclude Include="Q0013_RomanToInteger.h" />
     <ClInclude Include="Q0014_LongestCommonPrefix.h" />
@@ -171,6 +172,7 @@
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
     <ClInclude Include="Q0050_Pow.h" />
+    <ClInclude Include="Q0053_MaxSubarray.h" />
     <ClInclude Include="Q0054_SpiralMatrix.h" />
     <ClInclude Include="Q0062_UniquePaths.h" />
     <ClInclude Include="Q0069_SqrtX.h" />
@@ -206,6 +208,7 @@
     <ClInclude Include="Q0190_ReverseBits.h" />
     <ClInclude Include="Q0206_ReverseLinkedList.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
+    <ClInclude Include="Q0208_ImplementTrie.h" />
     <ClInclude Include="Q0215_KthLargestElemInArray.h" />
     <ClInclude Include="Q0218_SkylineProblem.h" />
     <ClInclude Include="Q0227_BasicCalcII.h" />

@@ -267,6 +267,15 @@
     <ClInclude Include="Q0171_ExcelSheetColumnNum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0053_MaxSubarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0008_StringToInteger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0208_ImplementTrie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
