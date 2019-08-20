@@ -220,6 +220,7 @@
     <ClInclude Include="Q0289_GameOfLife.h" />
     <ClInclude Include="Q0295_FindMedianFromDataStream.h" />
     <ClInclude Include="Q0300_LongestIncreasingSubsequence.h" />
+    <ClInclude Include="Q0315_CountSmallerNumAfterSelf.h" />
     <ClInclude Include="Q0322_CoinChange.h" />
     <ClInclude Include="Q0324_WiggleSortII.h" />
     <ClInclude Include="Q0326_PowerOfThree.h" />
