@@ -165,6 +165,7 @@
     <ClInclude Include="Q0023_MergeKSortedArray.h" />
     <ClInclude Include="Q0028_ImplementStrStr.h" />
     <ClInclude Include="Q0029_DivideTwoIntegers.h" />
+    <ClInclude Include="Q0033_SearchInRotatedArray.h" />
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0036_ValidSudoku.h" />
     <ClInclude Include="Q0041_FirstMissingPositive.h" />
@@ -213,6 +214,7 @@
     <ClInclude Include="Q0218_SkylineProblem.h" />
     <ClInclude Include="Q0227_BasicCalcII.h" />
     <ClInclude Include="Q0230_KthSmallestElemInBST.h" />
+    <ClInclude Include="Q0234_PalindromeLinedList.h" />
     <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
     <ClInclude Include="Q0240_Search2DMatrixII.h" />
     <ClInclude Include="Q0268_MissingNumber.h" />

@@ -279,6 +279,12 @@
     <ClInclude Include="Q0315_CountSmallerNumAfterSelf.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0033_SearchInRotatedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0234_PalindromeLinedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
