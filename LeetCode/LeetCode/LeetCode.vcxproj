@@ -169,6 +169,7 @@
     <ClInclude Include="Q0034_FindFirstAndLastPositionOfElementInSortedArray.h" />
     <ClInclude Include="Q0036_ValidSudoku.h" />
     <ClInclude Include="Q0041_FirstMissingPositive.h" />
+    <ClInclude Include="Q0042_TrappingRainWater.h" />
     <ClInclude Include="Q0044_WildcardMatching.h" />
     <ClInclude Include="Q0046_Permutations.h" />
     <ClInclude Include="Q0048_RotateImage.h" />
@@ -195,6 +196,7 @@
     <ClInclude Include="Q0130_SurroundedRegions.h" />
     <ClInclude Include="Q0134_GasStation.h" />
     <ClInclude Include="Q0138_CopyListWithRandomPointer.h" />
+    <ClInclude Include="Q0139_WordBreak.h" />
     <ClInclude Include="Q0141_LinkedListCycle.h" />
     <ClInclude Include="Q0148_SortList.h" />
     <ClInclude Include="Q0150_EvalReversePolishNotation.h" />
