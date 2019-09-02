@@ -291,6 +291,18 @@
     <ClInclude Include="Q0139_WordBreak.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Q0122_BestTimeToBuyAndSellStockII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0200_NumOfIslands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0442_FindAllDuplicationInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q0258_AddDigits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

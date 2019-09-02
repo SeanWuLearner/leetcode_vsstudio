@@ -189,6 +189,7 @@
     <ClInclude Include="Q0108_ConvertSortedArryToBST.h" />
     <ClInclude Include="Q0118_PascalTriangle.h" />
     <ClInclude Include="Q0121_BestTimeToBuySellStock.h" />
+    <ClInclude Include="Q0122_BestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="Q0124_BinTreeMaxPathSum.h" />
     <ClInclude Include="Q0125_ValidPalindrome.h" />
     <ClInclude Include="Q0127_WordLadder.h" />
@@ -209,6 +210,7 @@
     <ClInclude Include="Q0179_LargestNumber.h" />
     <ClInclude Include="Q0189_RotateArray.h" />
     <ClInclude Include="Q0190_ReverseBits.h" />
+    <ClInclude Include="Q0200_NumOfIslands.h" />
     <ClInclude Include="Q0206_ReverseLinkedList.h" />
     <ClInclude Include="Q0207_CourseSchedule.h" />
     <ClInclude Include="Q0208_ImplementTrie.h" />
@@ -219,6 +221,7 @@
     <ClInclude Include="Q0234_PalindromeLinedList.h" />
     <ClInclude Include="Q0238_ProdOfArrayExceptSelf.h" />
     <ClInclude Include="Q0240_Search2DMatrixII.h" />
+    <ClInclude Include="Q0258_AddDigits.h" />
     <ClInclude Include="Q0268_MissingNumber.h" />
     <ClInclude Include="Q0279_PerfectSquares.h" />
     <ClInclude Include="Q0289_GameOfLife.h" />
@@ -234,6 +237,7 @@
     <ClInclude Include="Q0380_InsertDeleteGetRandomO1.h" />
     <ClInclude Include="Q0384_ShuffleAnArray.h" />
     <ClInclude Include="Q0395_LongestSubstrAtLeastKRepeatChar.h" />
+    <ClInclude Include="Q0442_FindAllDuplicationInArray.h" />
     <ClInclude Include="Q0454_4Sum_II.h" />
     <ClInclude Include="Q0482_LicenseKeyFormatting.h" />
     <ClInclude Include="stdafx.h" />
